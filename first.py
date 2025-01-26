@@ -3,7 +3,7 @@ print("hello world")
 name="Khushu"
 a=1+2
 print(a)
-print("My name is Avishka Srivastava", "My age is 20.")
+print("My name is Avishka Srivastava", "I'm 20 years old.")
 b=9
 c=23.2
 total=a*b*c
@@ -67,4 +67,4 @@ print(a+b)
 name=input("enter your name ")
 print("welcome", name)
 age=int(input("enter your age "))
-print("you are ", age, " years old.")
+print("you are", age, "years old.")
