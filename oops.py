@@ -1,10 +1,14 @@
 class Student:
     college="University"
 
+    #staticmethod
+    @staticmethod
+    def hello():
+        print("hello")
+
     #default constructor
     def __init__(self):
         pass
-
 
     #parameterized constructor
     def __init__(self, name, marks):
